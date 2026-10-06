@@ -1,4 +1,4 @@
-# Dialogue Editor — Selfie Social Society
+# Dialogue Scripter — Selfie Social Society
 
 Author NPC dialogue for Selfie Social Society.
 
