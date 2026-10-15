@@ -1,0 +1,16 @@
+{
+  "editor": "dialogue-scripter",
+  "name": "Dialogue Scripter",
+  "shares": [
+    {
+      "type": "dialogue-pack",
+      "format": "json",
+      "location": "exportable from app",
+      "note": "NPC dialogue scripts"
+    }
+  ],
+  "consumes": [
+    "npc-faces"
+  ],
+  "npcManifest": "https://raw.githubusercontent.com/Kmberry1989/selsocsoc/main/assets/npc/manifest.json"
+}

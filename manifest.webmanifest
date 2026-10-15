@@ -1,0 +1,24 @@
+{
+  "name": "Dialogue Scripter \u2014 Selfie Social Society",
+  "short_name": "Dialogue",
+  "description": "Write NPC dialogue for Selfie Social Society.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#242722",
+  "background_color": "#242722",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
